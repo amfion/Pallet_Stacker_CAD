@@ -1,7 +1,7 @@
 # Pallet_Stacker_CAD
 Autodesk Inventor iLogic - VBA.NET
 
-###Skrypty jedynie do podglądu! Autor na żądanie może zaprezentować działanie skryptu w oprogramowaniu Autodesk Inventor.
+### Skrypty jedynie do podglądu! Autor na żądanie może zaprezentować działanie skryptu w oprogramowaniu Autodesk Inventor.
 
 ## aa_Pallet_BTP_template.iam
 Jest to plik-szablon, w którym należy uruchomić poniższy skrypt. Pomni
